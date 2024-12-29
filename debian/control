@@ -1,0 +1,12 @@
+Source: ros-jazzy-launch-testing-examples
+Section: misc
+Priority: optional
+Maintainer: Aditya Pande <aditya.pande@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-copyright <!nocheck>, ros-jazzy-ament-flake8 <!nocheck>, ros-jazzy-ament-pep257 <!nocheck>, ros-jazzy-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-launch-testing-examples
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, python3-pytest, ros-jazzy-demo-nodes-cpp, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-launch-testing, ros-jazzy-launch-testing-ros, ros-jazzy-rcl-interfaces, ros-jazzy-rclpy, ros-jazzy-ros2bag, ros-jazzy-std-msgs, ros-jazzy-ros-workspace
+Description: Examples of simple launch tests
