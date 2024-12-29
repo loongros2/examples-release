@@ -1,0 +1,124 @@
+ros-jazzy-examples-rclcpp-cbg-executor (0.19.4-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 26 Jun 2024 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.19.3-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 15 Apr 2024 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.19.2-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 27 Mar 2024 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.19.1-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 10 Jul 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.19.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 26 Apr 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.18.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 10 Apr 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.17.1-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Tue, 28 Feb 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.17.0-1trixie) trixie; urgency=high
+
+  * Update the examples to C++17. (#353 <https://github.com/ros2/examples/issues/353>)
+  * [rolling] Update maintainers - 2022-11-07 (#352 <https://github.com/ros2/examples/issues/352>)
+  * Contributors: Audrow Nash, Chris Lalancette
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 13 Feb 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.16.2-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Tue, 01 Nov 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.16.1-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 12 Sep 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.16.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Thu, 28 Apr 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.15.0-1trixie) trixie; urgency=high
+
+  * Improve scheduling configuration of examples_rclcpp_cbg_executor package (#331 <https://github.com/ros2/examples/issues/331>)
+  * Added jitter measurement to examples_rclcpp_cbg_executor. (#328 <https://github.com/ros2/examples/issues/328>)
+  * Contributors: Ralph Lange
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 28 Feb 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.14.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Thu, 13 Jan 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.13.0-1trixie) trixie; urgency=high
+
+  * Fix deprecated subscriber callbacks (#323 <https://github.com/ros2/examples/issues/323>)
+  * Contributors: Abrar Rahman Protyasha
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Sun, 17 Oct 2021 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.12.0-1trixie) trixie; urgency=high
+
+  * Remove use of get_callback_groups(). (#320 <https://github.com/ros2/examples/issues/320>)
+  * Contributors: Chris Lalancette
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 04 Aug 2021 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.11.2-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Sun, 25 Apr 2021 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.11.1-1trixie) trixie; urgency=high
+
+  * Fix clang warnings about type mismatches. (#309 <https://github.com/ros2/examples/issues/309>)
+  * Contributors: Chris Lalancette
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Sun, 11 Apr 2021 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.11.0-1trixie) trixie; urgency=high
+
+  * Support for cbg_executor package on QNX (#305 <https://github.com/ros2/examples/issues/305>)
+  * Contributors: joshua-qnx
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 05 Apr 2021 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-cbg-executor (0.10.3-1trixie) trixie; urgency=high
+
+  * Demo for callback-group-level executor concept. (#302 <https://github.com/ros2/examples/issues/302>)
+  * Contributors: Ralph Lange
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 17 Mar 2021 16:00:00 -0000
+
+
