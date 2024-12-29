@@ -1,0 +1,97 @@
+ros-jazzy-examples-rclcpp-wait-set (0.19.4-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 26 Jun 2024 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.19.3-1trixie) trixie; urgency=high
+
+  * fix: Fixed compilation after API change of TimerBase::execute (#375 <https://github.com/ros2/examples/issues/375>)
+    Co-authored-by: Janosch Machowinski <mailto:J.Machowinski@cellumation.com>
+  * Contributors: jmachowinski
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 15 Apr 2024 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.19.2-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 27 Mar 2024 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.19.1-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 10 Jul 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.19.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 26 Apr 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.18.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 10 Apr 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.17.1-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Tue, 28 Feb 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.17.0-1trixie) trixie; urgency=high
+
+  * Update the examples to C++17. (#353 <https://github.com/ros2/examples/issues/353>)
+  * [rolling] Update maintainers - 2022-11-07 (#352 <https://github.com/ros2/examples/issues/352>)
+  * Contributors: Audrow Nash, Chris Lalancette
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 13 Feb 2023 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.16.2-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Tue, 01 Nov 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.16.1-1trixie) trixie; urgency=high
+
+  * Add test linting to wait_set and fix issues. (#346 <https://github.com/ros2/examples/issues/346>) (#347 <https://github.com/ros2/examples/issues/347>)
+  * Contributors: mergify[bot]
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 12 Sep 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.16.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Thu, 28 Apr 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.15.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Mon, 28 Feb 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.14.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Thu, 13 Jan 2022 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.13.0-1trixie) trixie; urgency=high
+
+
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Sun, 17 Oct 2021 16:00:00 -0000
+
+ros-jazzy-examples-rclcpp-wait-set (0.12.0-1trixie) trixie; urgency=high
+
+  * Add wait set examples (#315 <https://github.com/ros2/examples/issues/315>)
+  * Contributors: carlossvg
+
+ -- Aditya Pande <aditya.pande@openrobotics.org>  Wed, 04 Aug 2021 16:00:00 -0000
+
+
