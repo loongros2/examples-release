@@ -1,0 +1,12 @@
+Source: ros-jazzy-examples-rclcpp-minimal-publisher
+Section: misc
+Priority: optional
+Maintainer: Aditya Pande <aditya.pande@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-rclcpp, ros-jazzy-std-msgs, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-examples-rclcpp-minimal-publisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-rclcpp, ros-jazzy-std-msgs, ros-jazzy-ros-workspace
+Description: Examples of minimal publisher nodes
